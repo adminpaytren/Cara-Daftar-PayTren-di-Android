@@ -9,7 +9,7 @@ Untuk Anda yang masih bingung tentang bagaimana **Cara Daftar PayTren di Android
 
 **Berikut 4 Langkah Cara Daftar PayTren di Android:**
 
-![_config.yml]({{ site.baseurl }}/images/benefit.jpg)
+![aplikasi-paytren]({{ site.baseurl }}/images/benefit.jpg)
 
 1. Download & Install Aplikasi PayTren 5.17 di Playstore atau IOS
 2. Buka Aplikasi PayTren 5.17, Masukan Nomor HP lalu klik *Lanjutkan*
