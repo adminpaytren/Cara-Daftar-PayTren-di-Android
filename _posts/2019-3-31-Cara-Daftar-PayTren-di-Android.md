@@ -71,6 +71,6 @@ Demikian penjelasan cara daftar PayTren yang benar langsung dari Android Anda. S
 
 Salam Sukses Berjamaah.
 
-center>Untuk mendapatkan seputar info terupdate PayTren dan banyak postingan positif lainnya, silahkan join channel telegram dengan mengklik tombol dibawah ini:</center>
+<center>Untuk mendapatkan seputar info terupdate PayTren dan banyak postingan positif lainnya, silahkan join channel telegram dengan mengklik tombol dibawah ini:</center>
 
 [![telegram-paytren]({{ site.baseurl }}/images/telegram.png)](https://t.me/markit_paytren517)
